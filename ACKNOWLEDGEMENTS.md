@@ -4,4 +4,4 @@
 
 | Notebook | Original Author | Updated By |
 |-|-|-|
-| [Eager_Execution_in_TensorFlow_2.x.ipynb](fundamentals_of_deeplearning/notebooks/Eager_Execution_in_TensorFlow_2.x.ipynb) | [Shubham Yadav](https://www.linkedin.com/in/shubham-kumar-yadav-14378768) | |
+| [Eager_Execution_in_TensorFlow_2.x.ipynb](fundamentals-of-deeplearning/notebooks/Eager_Execution_in_TensorFlow_2.x.ipynb) | [Shubham Yadav](https://www.linkedin.com/in/shubham-kumar-yadav-14378768) | |
