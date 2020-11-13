@@ -9,3 +9,5 @@
 | [Collaborative Filtering with RBM](unsupervised-deeplearning/notebooks/CollabortiveFilteringUsingRBM.ipynb) | [Saeed Aghabozorgi](https://ca.linkedin.com/in/saeedaghabozorgi), Gabriel Garcez Barros Sousa | [Jerome Nilmeier](https://ca.linkedin.com/in/nilmeier) |
 
 
+| [Logistic_Regression_with_TensorFlow.ipynb](fundamentals-of-deeplearning/notebooks/Logistic_Regression_with_TensorFlow.ipynb) | [Samaya Madhavan](https://www.linkedin.com/in/samaya-madhavan) | |
+
